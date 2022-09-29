@@ -1,2 +1,2 @@
-#CRUD api helper tool for spring boot 
+# CRUD api helper tool for spring boot 
 This is a fun project in which we try to create simple POJO and other necessary files required in the process of creation of CRUD apis in spring boot. Here we extract data required for POJO and other files creation from a sql CREATE statement of that table. 
